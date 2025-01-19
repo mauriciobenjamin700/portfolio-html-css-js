@@ -1,0 +1,60 @@
+.title{
+    width: 100%;
+    display: flex;
+    align-items: space-around;
+    flex-direction: row;
+}
+
+.profile-text{
+    font-size: 18px;
+    margin-left: 5%;
+}
+
+.profile-text p{
+    font-size: 20px;
+}
+
+.profile-image{
+    margin-left: 10%;
+    margin-right: 20%;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+
+.technology{
+    width: 80px;
+    height: 70px;
+}
+
+.technologies{
+    display: inline-block;
+}
+
+.template{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.left-side{
+    width: 50%;
+    margin-left: 0;
+}
+
+.right-side{
+    width: 50vh;
+    margin-right: 5%;
+}
+
+.section{
+    margin-top: 10%;
+}
+
+/* "display: inline-block */
