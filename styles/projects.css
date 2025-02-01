@@ -1,0 +1,26 @@
+/* .projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.carousel {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+}
+
+.project-image {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 300px;
+    margin: 0 10px;
+    scroll-snap-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.project-image:hover {
+    transform: scale(1.1);
+} */
